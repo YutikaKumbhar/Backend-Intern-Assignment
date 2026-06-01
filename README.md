@@ -35,7 +35,7 @@ See [`DELIVERABLES.md`](DELIVERABLES.md) for the full checklist.
 ### 1. Clone (after publishing to GitHub)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rest-api-rbac.git 
+git clone https://github.com/YutikaKumbhar/rest-api-rbac.git 
 cd rest-api-rbac
 ```
 
